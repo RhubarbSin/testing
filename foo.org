@@ -1,4 +1,3 @@
-#+title testing org-mode formatting
 * this is a heading
   - list item 1
   - list item 2
