@@ -2,3 +2,7 @@
   - list item 1
   - list item 2
   - <2012-10-11 Thu> should be a timestamp
+#+begin_src python
+def foo():
+    print 'Hello, world!'
+#+end_src
